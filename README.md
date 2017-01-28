@@ -1,3 +1,3 @@
-# Scratch to Phonegap
-
-This is repo is for people who want to make apps using Scratch. To use, simply replace index.html with the source code of a project in fullscreen when in Phosphorus. config.xml also has some fun things to change around. :)
+# ScratchToPhonegapExpress
+This is a wizard that can turn Scratch projects into apps via Phonegap.  Read more here:
+https://scratch.mit.edu/discuss/topic/236734/?page=1#post-2415150
